@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 
 # Project 1
-**Title:** Global Sports Footwear Sales
+**Title:** [Global Sports Footwear Sales](https://github.com/emiolasamson3-maker/emiolasamson3.github.io/blob/main/global_sports_footwear_sales_2018_2026.xlsx)
 
 **Tools Used:** Microsoft Excel(Pivot Table, Pivot Charts, Power Query Editor, Slicers, Conditional Formatting, Text Box)
 
