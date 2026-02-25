@@ -7,7 +7,8 @@
 
 **Project Description:** This project involved analyzing a global sports footwear dataset to identify sales trends across different regions, demographics, and brands. Using Power Query, I cleaned and transformed the raw data, then utilized Pivot Tables to aggregate the metrics. The goal was to create an interactive dashboard that provides stakeholders with a high-level view of business performance and operational efficiency.
 
-**Key Findings:**Top Performer:** ASICS leads the brands in total sales, followed by Nike, indicating a strong market preference for their products within this dataset.
+**Key Findings:**
+**Top Performer:** ASICS leads the brands in total sales, followed by Nike, indicating a strong market preference for their products within this dataset.
 
 **Demographic Balance:** Sales are remarkably well-distributed across genders, with Men, Women, and Unisex categories each capturing approximately 33-34% of the total market share.
 
@@ -15,7 +16,7 @@
 
 **Order Efficiency:** The "Order Status By Category" pie chart shows a relatively even split across five categories, suggesting a diverse but stable product movement.
 
-**Dashboard Overview:**The dashboard provides a 360-degree view of the sales ecosystem through five key visualizations:
+**Dashboard Overview:**The dashboard provides a 360-degree view of the sales ecosystem through five key visualizations
 
 **Sales by Country:** A bar chart identifying geographic performance.
 
