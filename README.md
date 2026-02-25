@@ -16,7 +16,9 @@
 
 **Order Efficiency:** The "Order Status By Category" pie chart shows a relatively even split across five categories, suggesting a diverse but stable product movement.
 
-**Dashboard Overview:** The dashboard provides a 360-degree view of the sales ecosystem through five key visualizations
+**Dashboard Overview:** ![Dashboard](Dashboard.PNG)
+
+The dashboard provides a 360-degree view of the sales ecosystem through five key visualizations
 
 **Sales by Country:** A bar chart identifying geographic performance.
 
