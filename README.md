@@ -60,6 +60,20 @@ The dashboard provides a 360-degree view of the sales ecosystem through five key
 
 **Technology used:** SQL Server
 
-# Project 1
-**Title:** [Procter & Gamble Superstore Performance]
+# Project 3
+**Title:** [Procter & Gamble Superstore Performance](https://github.com/emiolasamson3-maker/emiolasamson3.github.io/blob/main/Procter%20%26%20Gamble%20Performance.pbix)
+
+**Tools Used:** Power BI Desktop, DAX (Data Analysis Expressions), Power Query.
+
+**Project Description:** This project involved developing a comprehensive sales and logistics dashboard for a global retail superstore. The goal was to provide executive leadership with a high-level view of revenue performance, customer segmentation, and supply chain efficiency. I transformed raw transactional data into interactive visuals to help stakeholders identify which regions and shipping methods drive the most value.
+
+**Keys Findings:** Market Dominance: The United Kingdom leads as the top-performing country by order volume ($6.6\text{K}$), followed closely by China and Germany. This suggests a strong European market presence.
+
+**Customer Segmentation:** The Consumer segment is the primary revenue driver, accounting for nearly half of all sales (48.34%), while the Home Office segment represents the smallest share at 21.79%.
+
+**Logistics Preference:** "Standard Class" is overwhelmingly the preferred shipping mode ($2.4\text{K}$ orders), indicating that customers prioritize cost-savings over delivery speed.
+
+**Shipping Cost Volatility:** The line chart reveals significant spikes in shipping costs throughout 2022 and 2023. This identifies specific periods where logistics overhead may have impacted profit margins, warranting a deeper audit of carrier rates during those peaks.
+
+**Dashboard Overview:** ![PBI](PBI.png)
  
