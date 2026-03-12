@@ -29,3 +29,33 @@ The dashboard provides a 360-degree view of the sales ecosystem through five key
 **Order Channel:** A horizontal bar chart comparing how customers are buying.
 
 **Total Sales by Brand:** A ranked horizontal bar chart showing brand competitiveness.
+
+# Project 2
+
+**Title:** SQL Data Defination Language-Sales Data 
+
+**SQL Code:** [Sales Data](https://github.com/emiolasamson3-maker/emiolasamson3.github.io/blob/main/Sales_Data.sql)
+
+**SQL Skills Used:** Multi-Table Joins: Utilizing LEFT JOIN and INNER JOIN to aggregate data across Customer, Salesman, and Orders tables.
+
+**Data Filtering & Predicates:** Implementing complex logic using BETWEEN, WHERE, and IS NULL for precise data extraction.
+
+**Conditional Logic:** Writing CASE statements to categorize order statuses and salesperson assignments.
+
+**Data Organization:** Using ORDER BY and Aliasing (AS) to ensure report readability and professional formatting.
+
+**Set Operations:** Handling relational logic to identify gaps in assignments (e.g., customers without orders or salespeople without assigned customers).
+
+**Project Description:** In this project, I acted as a Data Analyst for a retail/distribution firm to streamline their sales reporting process. I developed a suite of SQL queries designed to bridge the gap between three core datasets: Customers, Sales Representatives, and Transactional Orders.
+
+**Key Objectives Achieved:**
+
+**Sales Performance:** Identified high-value transactions (orders between 500 and 2000) to help management focus on mid-to-high tier sales.
+
+**Relationship Mapping:** Created reports to audit the relationship between sales agents and their assigned cities/customers, ensuring no accounts were left unmanaged.
+
+**Commission Auditing:** Filtered sales personnel based on commission thresholds (over 12%) to analyze incentive structures.
+
+**Exception Reporting:** Developed a comprehensive "Order Status" report using CASE logic to identify if orders were placed through assigned agents, different agents, or independently, which is crucial for resolving commission disputes.
+
+**Technology used:** SQL Server
