@@ -59,3 +59,7 @@ The dashboard provides a 360-degree view of the sales ecosystem through five key
 **Exception Reporting:** Developed a comprehensive "Order Status" report using CASE logic to identify if orders were placed through assigned agents, different agents, or independently, which is crucial for resolving commission disputes.
 
 **Technology used:** SQL Server
+
+# Project 1
+**Title:** [Procter & Gamble Superstore Performance]
+ 
