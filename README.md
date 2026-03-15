@@ -78,32 +78,40 @@ The dashboard provides a 360-degree view of the sales ecosystem through five key
 **Dashboard Overview:** ![PBI](PBI.png)
 
 # Project 4
-**Title:** [Vrinda_Store_Dashboard](https://github.com/emiolasamson3-maker/emiolasamson3.github.io/blob/main/global_sports_footwear_sales_2018_2026.xlsx)
+**Title:** [Vrinda_Store_Dashboard](https://github.com/emiolasamson3-maker/emiolasamson3.github.io/blob/main/Vrinda_Store_Dashboard.xlsx)
 
-**Tools Used:** Microsoft Excel(Pivot Table, Pivot Charts, Power Query Editor, Slicers, Conditional Formatting, Text Box)
+**Tools Used:** Microsoft Excel( Data Cleaning, Data Processing, Pivot Table, Pivot Charts, Power Query Editor, Slicers, Conditional Formatting, Text Box)
 
-**Project Description:** This project involved analyzing a global sports footwear dataset to identify sales trends across different regions, demographics, and brands. Using Power Query, I cleaned and transformed the raw data, then utilized Pivot Tables to aggregate the metrics. The goal was to create an interactive dashboard that provides stakeholders with a high-level view of business performance and operational efficiency.
+**Project Description:** This project involves a comprehensive data analysis of Vrinda Store’s retail operations for the year 2022. The objective was to transform raw transactional data into a visual story that empowers the store owner to understand customer behavior, identify top-performing regions, and optimize sales strategies for the upcoming year.
 
 **Key Findings:**
-**Top Performer:** ASICS leads the brands in total sales, followed by Nike, indicating a strong market preference for their products within this dataset.
+**Target Demographics**
+**Primary Audience:** Women are the top contributors, accounting for approximately 64–65% of total sales.
 
-**Demographic Balance:** Sales are remarkably well-distributed across genders, with Men, Women, and Unisex categories each capturing approximately 33-34% of the total market share.
+**Age Group:** The Adult demographic (ages 30–49) is the most profitable segment, contributing nearly 50% of total revenue.
 
-**Regional Strength:** The UAE and UK show significantly higher sales volume compared to Pakistan, suggesting these are primary growth markets.
+**Geographical & Channel Insights**
+**Top States:** Maharashtra, Karnataka, and Uttar Pradesh consistently rank as the top three states for sales volume.
 
-**Order Efficiency:** The "Order Status By Category" pie chart shows a relatively even split across five categories, suggesting a diverse but stable product movement.
+**Dominant Channels:** Amazon, Flipkart, and Myntra are the powerhouse channels, together driving the majority of orders.
 
-**Dashboard Overview:** ![Dashboard](Dashboard.PNG)
+**Operational Performance**
+**Fulfillment:** A high percentage (~92%) of orders are successfully Delivered, indicating a healthy supply chain with low return rates.
+
+**Seasonality:** Sales typically peak in the first quarter (especially March), suggesting that marketing spend should be optimized for early-year campaigns.
+
+**Dashboard Overview:** ![Dashboard](Vrinda.png)
 
 The dashboard provides a 360-degree view of the sales ecosystem through five key visualizations
 
-**Sales by Country:** A bar chart identifying geographic performance.
+**Orders and Sales Per Month:** A combination or bar chart showing seasonality and growth trends throughout the year.
 
-**Total Sales Based on Gender:** A 3D pie chart showing the demographic split.
+**Total Sales Based on Gender:** A pie chart highlighting the primary revenue-driving gender.
 
-**Order Status by Category:** A pie chart detailing the health of order fulfillment.
+**Order Status Performance:** A 3D pie chart visualizing the efficiency of fulfillment (Delivered, Cancelled, Returned, etc.).
 
-**Order Channel:** A horizontal bar chart comparing how customers are buying.
+**Top 5 Highest Sales:** A bar chart identifying the top-performing categories or states.
 
-**Total Sales by Brand:** A ranked horizontal bar chart showing brand competitiveness.
- 
+**Order Channels:** A horizontal bar chart showing where customers are purchasing (Amazon, Flipkart, Myntra, etc.).
+
+**Interactive Slicers:** Filtering tools for Date, Category, and Channel to allow for dynamic data exploration.
