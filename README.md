@@ -156,6 +156,6 @@ The dashboard provides a 360-degree view of the sales ecosystem through five key
 
 **Compensation Calculation:** Computed total employee compensation by combining base salary with variable components.
 
-**Practical Database Management Experience:** Strengthened practical knowledge of SQL Server database querying, employee record analysis, and structured data management.
+**Practical Database Management Experience:** Strengthened practical knowledge of SQL Server database querying, employee record analysis, and structured data management
 
 **Technology used:** SQL Server
