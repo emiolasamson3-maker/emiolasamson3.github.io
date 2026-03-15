@@ -115,3 +115,47 @@ The dashboard provides a 360-degree view of the sales ecosystem through five key
 **Order Channels:** A horizontal bar chart showing where customers are purchasing (Amazon, Flipkart, Myntra, etc.).
 
 **Interactive Slicers:** Filtering tools for Date, Category, and Channel to allow for dynamic data exploration.
+
+# Project 5
+
+**Title:** SQL Data Defination Language-Sales Data 
+
+**SQL Code:** [Employees_Records](https://github.com/emiolasamson3-maker/emiolasamson3.github.io/blob/main/Employees_Records.sql)
+
+**SQL Skills Used:** Basic Data Retrieval: SELECT *, SELECT DISTINCT (selecting specific columns like Project).
+
+**Advanced Filtering:** Using WHERE clauses with BETWEEN, IN, and Comparison Operators (<>).
+
+**Logical Operators:** Combining multiple conditions using AND and OR.
+
+**Pattern Matching:** Using the LIKE operator with wildcards (e.g., '__HN%') to find specific text strings.
+
+**Aggregate Functions:** Calculating summary statistics using SUM, COUNT, MAX, MIN, and AVG.
+
+**Calculated Fields:** Performing arithmetic operations within a query (e.g., [Salary] + [Variable] AS [Total Salary]).
+
+**Set Operations:** Using UNION to combine results from multiple tables (EmployeeDetails and EmployeeSalary).
+
+**Data Definition (DDL):** Basic schema modification using ALTER TABLE and DROP COLUMN.
+
+**Project Description:** In this project, I worked as a Data Analyst for a construction company, where I used SQL Server to analyze employee and salary data by writing queries to retrieve employee information, identify projects, calculate salary statistics (maximum, minimum, and average), filter employees based on managers, locations, and salary ranges, and combine data from multiple tables to generate meaningful insights for organizational reporting.
+
+**Key Objectives Achieved:**
+
+**Efficient Data:** RetrievalSuccessfully wrote SQL queries to retrieve employee information such as employee ID, full name, manager details, and project assignments from the employee database.
+
+**Employee Management Analysis:** Identified employees working under specific managers and analyzed reporting structures within the organization.
+
+**Project Participation Insights:** Extracted distinct project names and determined the number of employees working on specific projects such as P1.
+
+**Salary Analysis and Reporting:** Calculated important salary statistics including maximum salary, minimum salary, and average salary to support management decision-making.
+
+**Data Filtering and Conditions:** Applied SQL filtering techniques using WHERE, AND, OR, BETWEEN, and LIKE clauses to extract targeted employee records based on salary ranges, city, and name patterns.
+
+**Database Query Optimization Skills:** Demonstrated the use of SQL operations such as aggregation functions, pattern matching, and UNION to combine data from multiple tables effectively.
+
+**Compensation Calculation:** Computed total employee compensation by combining base salary with variable components.
+
+**Practical Database Management Experience:** Strengthened practical knowledge of SQL Server database querying, employee record analysis, and structured data management.
+
+**Technology used:** SQL Server
